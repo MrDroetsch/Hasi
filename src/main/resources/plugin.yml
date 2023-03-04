@@ -1,0 +1,6 @@
+name: Hasi
+version: '${project.version}'
+main: me.bunnykick.hasi.Hasi
+api-version: 1.19
+authors: [ HasenTritt ]
+description: Hasi
